@@ -2,6 +2,7 @@ import pygame
 from random import shuffle
 #تغییرات از وب سایت داده شده است
 BOXES = []
+#تغییرات شماره یک در لوکال
 numbers = [i+1 for i in range(16)]
 shuffle(numbers)
 for row in range(4):
