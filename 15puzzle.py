@@ -5,6 +5,7 @@ from random import shuffle
 BOXES = []
 #تغییرات شماره یک در لوکال
 numbers = [i+1 for i in range(16)]
+#تغییرات شماره 2 در سایت
 shuffle(numbers)
 for row in range(4):
     for col in range(4):
