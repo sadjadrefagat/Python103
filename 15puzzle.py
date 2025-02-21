@@ -1,4 +1,5 @@
 import pygame
+#تغییرات شماره 3 در لوکال
 from random import shuffle
 #تغییرات از وب سایت داده شده است
 BOXES = []
